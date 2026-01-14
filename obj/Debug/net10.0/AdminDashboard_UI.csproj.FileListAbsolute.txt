@@ -278,3 +278,4 @@ C:\Work Space\C# Learning\AdminDashboard\AdminDashboard_UI\obj\Debug\net10.0\ref
 C:\Work Space\C# Learning\AdminDashboard\AdminDashboard_UI\obj\Debug\net10.0\AdminDashboard_UI.pdb
 C:\Work Space\C# Learning\AdminDashboard\AdminDashboard_UI\obj\Debug\net10.0\AdminDashboard_UI.genruntimeconfig.cache
 C:\Work Space\C# Learning\AdminDashboard\AdminDashboard_UI\obj\Debug\net10.0\ref\AdminDashboard_UI.dll
+C:\Work Space\C# Learning\AdminDashboard\AdminDashboard_UI\obj\Debug\net10.0\AdminDashboard_UI.sourcelink.json

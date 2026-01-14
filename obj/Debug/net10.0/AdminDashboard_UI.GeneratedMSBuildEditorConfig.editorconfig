@@ -30,8 +30,28 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Work Space/C\# Learning/AdminDashboard/AdminDashboard_UI/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Work Space/C\# Learning/AdminDashboard/AdminDashboard_UI/Views/Home/ExistingUserFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeGlzdGluZ1VzZXJGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Work Space/C\# Learning/AdminDashboard/AdminDashboard_UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Work Space/C\# Learning/AdminDashboard/AdminDashboard_UI/Views/Home/PasswordIncorrect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXNzd29yZEluY29ycmVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Work Space/C\# Learning/AdminDashboard/AdminDashboard_UI/Views/Home/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Work Space/C\# Learning/AdminDashboard/AdminDashboard_UI/Views/Home/UserNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyTm90Rm91bmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Work Space/C\# Learning/AdminDashboard/AdminDashboard_UI/Views/Shared/_ValidationScriptsPartial.cshtml]
